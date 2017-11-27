@@ -1,5 +1,5 @@
 README.md:	
-	# GUESS THE NUMBER" 
+	# GUESS THE NUMBER 
 	cat guessinggame.sh | wc -l >> README.md
 
 
