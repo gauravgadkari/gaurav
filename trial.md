@@ -1,2 +1,2 @@
 # title
-echo $(cat guessinggame.sh | wc -l)
+`echo $(cat guessinggame.sh | wc -l)`
